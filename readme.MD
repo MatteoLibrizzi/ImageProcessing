@@ -1,0 +1,2 @@
+This repository contains various files that helped me understand concepts of image processing, which I studied in university.
+The files do not follow any particular order and many of them are duplicated as I was rewriting them to better memorize them.
